@@ -7,8 +7,10 @@ Each key within the db.json is its own endpoint that can be hit.
 
 To see it work, go to your browser and paste the following code:
 
+```javascript
 fetch('https://my-json-server.typicode.com/flatfilers/csb-api/users')
   .then(response => response.json())
   .then(json => console.log(json))
+```
  
 For more info about how to create new data models, this uses <a href="https://my-json-server.typicode.com/">my-json-server.typicode.com</a> under the hood.
