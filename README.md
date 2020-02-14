@@ -5,7 +5,7 @@ In order to call data, use the URL https://my-json-server.typicode.com/flatfiler
 
 Each key within the db.json is its own endpoint that can be hit.
 
-To see it work, go to your browser and paste the following code:
+To see it work, go to your browser console and paste the following code:
 
 ```javascript
 fetch('https://my-json-server.typicode.com/flatfilers/csb-api/users')
