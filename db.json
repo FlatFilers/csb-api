@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "first_name": "David",
+      "last_name": "Boskovic",
+      "user_id": "0001",
+      "email": "david@flatfile.io",
+      "country": "Canada",
+      "zip_code": "12345",
+      "create_date": "2019/01/30"
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Crane",
+      "user_id": "0002",
+      "email": "eric@flatfile.io",
+      "country": "United States",
+      "zip_code": "54321",
+      "create_date": "2019/06/25"
+    },
+    {
+      "first_name": "Nate",
+      "last_name": "Ferrero",
+      "user_id": "0003",
+      "email": "nate@flatfile.io",
+      "country": "United States",
+      "zip_code": "06010",
+      "create_date": "2019/01/30"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
